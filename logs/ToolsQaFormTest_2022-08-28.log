@@ -1,0 +1,13 @@
+[INFO ] 2022-08-28 09:13:13,710 FieldChecker.verifyFieldsFromCsv() - Column 1 value: Cigdem has been read from CSV
+[INFO ] 2022-08-28 09:13:13,716 FieldChecker.verifyFieldsFromCsv() - Column 2 value: Baysa has been read from CSV
+[INFO ] 2022-08-28 09:13:13,716 FieldChecker.verifyFieldsFromCsv() - Column 3 value: cigdem.baysa@gmail.com has been read from CSV
+[INFO ] 2022-08-28 09:13:13,716 FieldChecker.verifyFieldsFromCsv() - Column 4 value: Kadıköy has been read from CSV
+[INFO ] 2022-08-28 09:13:21,031 BasePageMethods.clickForms() - Forms has been clicked
+[INFO ] 2022-08-28 09:13:21,239 BasePageMethods.clickPracticeForm() - Practice Form link has been clicked
+[INFO ] 2022-08-28 09:13:21,308 BasePageMethods.fillFirstName() - First Name filled with Cigdem
+[INFO ] 2022-08-28 09:13:21,374 BasePageMethods.fillLastName() - Last Name filled with Baysa
+[INFO ] 2022-08-28 09:13:21,455 BasePageMethods.fillMailAddress() - Mail Address filled with cigdem.baysa@gmail.com
+[INFO ] 2022-08-28 09:13:21,514 BasePageMethods.fillAddress() - Address filled with Kadıköy
+[INFO ] 2022-08-28 09:13:21,644 BasePageMethods.selectGender() - Gender Female has been selected
+[INFO ] 2022-08-28 09:13:21,725 BasePageMethods.fillMobileNumber() - Mobile Number filled with 1863210313
+[INFO ] 2022-08-28 09:13:21,885 BasePageMethods.clickSubmitButton() - Submit button has been clicked

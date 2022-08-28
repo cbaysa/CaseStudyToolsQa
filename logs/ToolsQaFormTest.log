@@ -1,0 +1,30 @@
+[INFO ] 2022-08-28 09:13:46,969 FieldChecker.verifyFieldsFromCsv() - Column 1 value: Cigdem has been read from CSV
+[INFO ] 2022-08-28 09:13:46,972 FieldChecker.verifyFieldsFromCsv() - Column 2 value: Baysa has been read from CSV
+[INFO ] 2022-08-28 09:13:46,973 FieldChecker.verifyFieldsFromCsv() - Column 3 value: cigdem.baysa@gmail.com has been read from CSV
+[INFO ] 2022-08-28 09:13:46,973 FieldChecker.verifyFieldsFromCsv() - Column 4 value: Kadıköy has been read from CSV
+[INFO ] 2022-08-28 09:13:53,005 BasePageMethods.clickForms() - Forms has been clicked
+[INFO ] 2022-08-28 09:13:53,216 BasePageMethods.clickPracticeForm() - Practice Form link has been clicked
+[INFO ] 2022-08-28 09:13:53,290 BasePageMethods.fillFirstName() - First Name filled with Cigdem
+[INFO ] 2022-08-28 09:13:53,352 BasePageMethods.fillLastName() - Last Name filled with Baysa
+[INFO ] 2022-08-28 09:13:53,426 BasePageMethods.fillMailAddress() - Mail Address filled with cigdem.baysa@gmail.com
+[INFO ] 2022-08-28 09:13:53,489 BasePageMethods.fillAddress() - Address filled with Kadıköy
+[INFO ] 2022-08-28 09:13:53,639 BasePageMethods.selectGender() - Gender Female has been selected
+[INFO ] 2022-08-28 09:13:53,743 BasePageMethods.fillMobileNumber() - Mobile Number filled with 1264663753
+[INFO ] 2022-08-28 09:13:53,931 BasePageMethods.clickSubmitButton() - Submit button has been clicked
+[INFO ] 2022-08-28 09:13:58,944 BasePageMethods.waitForPopup() - Popup waited for 5 seconds
+[INFO ] 2022-08-28 09:13:59,375 BasePageMethods.clickCloseButton() - Close button on popup has been clicked
+[INFO ] 2022-08-28 09:13:59,390 FieldChecker.verifyFieldsFromCsv() - Column 1 value: Beth has been read from CSV
+[INFO ] 2022-08-28 09:13:59,391 FieldChecker.verifyFieldsFromCsv() - Column 2 value: Marshall has been read from CSV
+[INFO ] 2022-08-28 09:13:59,391 FieldChecker.verifyFieldsFromCsv() - Column 3 value: bethmarshall@msn.com has been read from CSV
+[INFO ] 2022-08-28 09:13:59,391 FieldChecker.verifyFieldsFromCsv() - Column 4 value: England has been read from CSV
+[INFO ] 2022-08-28 09:14:00,753 BasePageMethods.clickForms() - Forms has been clicked
+[INFO ] 2022-08-28 09:14:00,920 BasePageMethods.clickPracticeForm() - Practice Form link has been clicked
+[INFO ] 2022-08-28 09:14:00,978 BasePageMethods.fillFirstName() - First Name filled with Beth
+[INFO ] 2022-08-28 09:14:01,051 BasePageMethods.fillLastName() - Last Name filled with Marshall
+[INFO ] 2022-08-28 09:14:01,132 BasePageMethods.fillMailAddress() - Mail Address filled with bethmarshall@msn.com
+[INFO ] 2022-08-28 09:14:01,198 BasePageMethods.fillAddress() - Address filled with England
+[INFO ] 2022-08-28 09:14:01,321 BasePageMethods.selectGender() - Gender Female has been selected
+[INFO ] 2022-08-28 09:14:01,387 BasePageMethods.fillMobileNumber() - Mobile Number filled with 1228267556
+[INFO ] 2022-08-28 09:14:01,567 BasePageMethods.clickSubmitButton() - Submit button has been clicked
+[INFO ] 2022-08-28 09:14:06,571 BasePageMethods.waitForPopup() - Popup waited for 5 seconds
+[INFO ] 2022-08-28 09:14:07,056 BasePageMethods.clickCloseButton() - Close button on popup has been clicked
